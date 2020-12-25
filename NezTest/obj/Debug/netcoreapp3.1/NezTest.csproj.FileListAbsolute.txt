@@ -1,0 +1,155 @@
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/NezTest.deps.json
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/NezTest.runtimeconfig.json
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/NezTest.runtimeconfig.dev.json
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/NezTest.dll
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/NezTest.pdb
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Microsoft.Win32.SystemEvents.dll
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/MonoGame.Framework.dll
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/System.Drawing.Common.dll
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libSDL2-2.0.so.0
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libopenal.so.1
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/runtimes/osx/native/libSDL2-2.0.0.dylib
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/runtimes/osx/native/libopenal.1.dylib
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/SDL2.dll
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/soft_oal.dll
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/SDL2.dll
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/soft_oal.dll
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Nez.dll
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Nez.pdb
+/Users/turtle/Projects/NezTest/NezTest/obj/Debug/netcoreapp3.1/NezTest.csprojAssemblyReference.cache
+/Users/turtle/Projects/NezTest/NezTest/obj/Debug/netcoreapp3.1/NezTest.AssemblyInfoInputs.cache
+/Users/turtle/Projects/NezTest/NezTest/obj/Debug/netcoreapp3.1/NezTest.AssemblyInfo.cs
+/Users/turtle/Projects/NezTest/NezTest/obj/Debug/netcoreapp3.1/NezTest.csproj.CoreCompileInputs.cache
+/Users/turtle/Projects/NezTest/NezTest/obj/Debug/netcoreapp3.1/NezTest.csproj.CopyComplete
+/Users/turtle/Projects/NezTest/NezTest/obj/Debug/netcoreapp3.1/NezTest.dll
+/Users/turtle/Projects/NezTest/NezTest/obj/Debug/netcoreapp3.1/NezTest.pdb
+/Users/turtle/Projects/NezTest/NezTest/obj/Debug/netcoreapp3.1/NezTest.genruntimeconfig.cache
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/Metroidvania Tileset.png
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/tile2.tmx
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/test3tile.tsx
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/vin1.png
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/libcimgui.dylib
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/ImGui.NET.dll
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libcimgui.so
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/runtimes/osx-x64/native/libcimgui.dylib
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/cimgui.dll
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/cimgui.dll
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Nez.ImGui.dll
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Nez.Persistence.dll
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Nez.ImGui.pdb
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Nez.Persistence.pdb
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/metal1.png
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/Adventurer-1.5/Individual Sprites/adventurer-air-attack-3-end-00.png
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/Adventurer-1.5/Individual Sprites/adventurer-air-attack-3-end-01.png
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/Adventurer-1.5/Individual Sprites/adventurer-air-attack-3-end-02.png
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/Adventurer-1.5/Individual Sprites/adventurer-air-attack1-00.png
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/Adventurer-1.5/Individual Sprites/adventurer-air-attack1-01.png
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/Adventurer-1.5/Individual Sprites/adventurer-air-attack1-02.png
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/Adventurer-1.5/Individual Sprites/adventurer-air-attack1-03.png
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/Adventurer-1.5/Individual Sprites/adventurer-air-attack2-00.png
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/Adventurer-1.5/Individual Sprites/adventurer-air-attack2-01.png
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/Adventurer-1.5/Individual Sprites/adventurer-air-attack2-02.png
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/Adventurer-1.5/Individual Sprites/adventurer-air-attack3-loop-00.png
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/Adventurer-1.5/Individual Sprites/adventurer-air-attack3-loop-01.png
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/Adventurer-1.5/Individual Sprites/adventurer-air-attack3-rdy-00.png
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/Adventurer-1.5/Individual Sprites/adventurer-attack1-00.png
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/Adventurer-1.5/Individual Sprites/adventurer-attack1-01.png
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/Adventurer-1.5/Individual Sprites/adventurer-attack1-02.png
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/Adventurer-1.5/Individual Sprites/adventurer-attack1-03.png
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/Adventurer-1.5/Individual Sprites/adventurer-attack1-04.png
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/Adventurer-1.5/Individual Sprites/adventurer-attack2-00.png
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/Adventurer-1.5/Individual Sprites/adventurer-attack2-01.png
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/Adventurer-1.5/Individual Sprites/adventurer-attack2-02.png
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/Adventurer-1.5/Individual Sprites/adventurer-attack2-03.png
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/Adventurer-1.5/Individual Sprites/adventurer-attack2-04.png
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/Adventurer-1.5/Individual Sprites/adventurer-attack2-05.png
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/Adventurer-1.5/Individual Sprites/adventurer-attack3-00.png
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/Adventurer-1.5/Individual Sprites/adventurer-attack3-01.png
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/Adventurer-1.5/Individual Sprites/adventurer-attack3-02.png
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/Adventurer-1.5/Individual Sprites/adventurer-attack3-03.png
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/Adventurer-1.5/Individual Sprites/adventurer-attack3-04.png
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/Adventurer-1.5/Individual Sprites/adventurer-attack3-05.png
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/Adventurer-1.5/Individual Sprites/adventurer-cast-00.png
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/Adventurer-1.5/Individual Sprites/adventurer-cast-01.png
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/Adventurer-1.5/Individual Sprites/adventurer-cast-02.png
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/Adventurer-1.5/Individual Sprites/adventurer-cast-03.png
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/Adventurer-1.5/Individual Sprites/adventurer-cast-loop-00.png
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/Adventurer-1.5/Individual Sprites/adventurer-cast-loop-01.png
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/Adventurer-1.5/Individual Sprites/adventurer-cast-loop-02.png
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/Adventurer-1.5/Individual Sprites/adventurer-cast-loop-03.png
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/Adventurer-1.5/Individual Sprites/adventurer-crnr-clmb-00.png
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/Adventurer-1.5/Individual Sprites/adventurer-crnr-clmb-01.png
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/Adventurer-1.5/Individual Sprites/adventurer-crnr-clmb-02.png
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/Adventurer-1.5/Individual Sprites/adventurer-crnr-clmb-03.png
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/Adventurer-1.5/Individual Sprites/adventurer-crnr-clmb-04.png
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/Adventurer-1.5/Individual Sprites/adventurer-crnr-grb-00.png
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/Adventurer-1.5/Individual Sprites/adventurer-crnr-grb-01.png
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/Adventurer-1.5/Individual Sprites/adventurer-crnr-grb-02.png
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/Adventurer-1.5/Individual Sprites/adventurer-crnr-grb-03.png
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/Adventurer-1.5/Individual Sprites/adventurer-crnr-jmp-00.png
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/Adventurer-1.5/Individual Sprites/adventurer-crnr-jmp-01.png
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/Adventurer-1.5/Individual Sprites/adventurer-crouch-00.png
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/Adventurer-1.5/Individual Sprites/adventurer-crouch-01.png
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/Adventurer-1.5/Individual Sprites/adventurer-crouch-02.png
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/Adventurer-1.5/Individual Sprites/adventurer-crouch-03.png
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/Adventurer-1.5/Individual Sprites/adventurer-die-00.png
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/Adventurer-1.5/Individual Sprites/adventurer-die-01.png
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/Adventurer-1.5/Individual Sprites/adventurer-die-02.png
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/Adventurer-1.5/Individual Sprites/adventurer-die-03.png
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/Adventurer-1.5/Individual Sprites/adventurer-die-04.png
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/Adventurer-1.5/Individual Sprites/adventurer-die-05.png
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/Adventurer-1.5/Individual Sprites/adventurer-die-06.png
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/Adventurer-1.5/Individual Sprites/adventurer-fall-00.png
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/Adventurer-1.5/Individual Sprites/adventurer-fall-01.png
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/Adventurer-1.5/Individual Sprites/adventurer-hurt-00.png
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/Adventurer-1.5/Individual Sprites/adventurer-hurt-01.png
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/Adventurer-1.5/Individual Sprites/adventurer-hurt-02.png
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/Adventurer-1.5/Individual Sprites/adventurer-idle-00.png
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/Adventurer-1.5/Individual Sprites/adventurer-idle-01.png
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/Adventurer-1.5/Individual Sprites/adventurer-idle-02.png
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/Adventurer-1.5/Individual Sprites/adventurer-idle-03.png
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/Adventurer-1.5/Individual Sprites/adventurer-idle-2-00.png
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/Adventurer-1.5/Individual Sprites/adventurer-idle-2-01.png
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/Adventurer-1.5/Individual Sprites/adventurer-idle-2-02.png
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/Adventurer-1.5/Individual Sprites/adventurer-idle-2-03.png
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/Adventurer-1.5/Individual Sprites/adventurer-items-00.png
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/Adventurer-1.5/Individual Sprites/adventurer-items-01.png
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/Adventurer-1.5/Individual Sprites/adventurer-items-02.png
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/Adventurer-1.5/Individual Sprites/adventurer-jump-00.png
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/Adventurer-1.5/Individual Sprites/adventurer-jump-01.png
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/Adventurer-1.5/Individual Sprites/adventurer-jump-02.png
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/Adventurer-1.5/Individual Sprites/adventurer-jump-03.png
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/Adventurer-1.5/Individual Sprites/adventurer-ladder-climb-00.png
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/Adventurer-1.5/Individual Sprites/adventurer-ladder-climb-01.png
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/Adventurer-1.5/Individual Sprites/adventurer-ladder-climb-02.png
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/Adventurer-1.5/Individual Sprites/adventurer-ladder-climb-03.png
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/Adventurer-1.5/Individual Sprites/adventurer-run-00.png
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/Adventurer-1.5/Individual Sprites/adventurer-run-01.png
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/Adventurer-1.5/Individual Sprites/adventurer-run-02.png
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/Adventurer-1.5/Individual Sprites/adventurer-run-03.png
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/Adventurer-1.5/Individual Sprites/adventurer-run-04.png
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/Adventurer-1.5/Individual Sprites/adventurer-run-05.png
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/Adventurer-1.5/Individual Sprites/adventurer-slide-00.png
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/Adventurer-1.5/Individual Sprites/adventurer-slide-01.png
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/Adventurer-1.5/Individual Sprites/adventurer-smrslt-00.png
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/Adventurer-1.5/Individual Sprites/adventurer-smrslt-01.png
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/Adventurer-1.5/Individual Sprites/adventurer-smrslt-02.png
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/Adventurer-1.5/Individual Sprites/adventurer-smrslt-03.png
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/Adventurer-1.5/Individual Sprites/adventurer-stand-00.png
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/Adventurer-1.5/Individual Sprites/adventurer-stand-01.png
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/Adventurer-1.5/Individual Sprites/adventurer-stand-02.png
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/Adventurer-1.5/Individual Sprites/adventurer-swrd-drw-00.png
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/Adventurer-1.5/Individual Sprites/adventurer-swrd-drw-01.png
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/Adventurer-1.5/Individual Sprites/adventurer-swrd-drw-02.png
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/Adventurer-1.5/Individual Sprites/adventurer-swrd-drw-03.png
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/Adventurer-1.5/Individual Sprites/adventurer-swrd-shte-00.png
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/Adventurer-1.5/Individual Sprites/adventurer-swrd-shte-01.png
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/Adventurer-1.5/Individual Sprites/adventurer-swrd-shte-02.png
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/Adventurer-1.5/Individual Sprites/adventurer-swrd-shte-03.png
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/Adventurer-1.5/Individual Sprites/adventurer-wall-slide-00.png
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/Adventurer-1.5/Individual Sprites/adventurer-wall-slide-01.png
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/out.atlas
+/Users/turtle/Projects/NezTest/NezTest/bin/Debug/netcoreapp3.1/Content/out.png

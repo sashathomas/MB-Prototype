@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.4" tiledversion="1.4.3" orientation="orthogonal" renderorder="right-down" width="25" height="25" tilewidth="32" tileheight="32" infinite="0" nextlayerid="4" nextobjectid="3">
+ <editorsettings>
+  <export target="tile2..tmx" format="tmx"/>
+ </editorsettings>
+ <tileset firstgid="1" source="test3tile.tsx"/>
+ <layer id="2" name="sub" width="25" height="25">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIJRMApGwSggDFQH2G50+1VxiFPb3sEKABanAQQ=
+  </data>
+ </layer>
+ <layer id="1" name="collision" width="25" height="25">
+  <data encoding="base64" compression="zlib">
+   eJzVlDEOgCAMRTvopptu6iTe/4h2wIQ0Vgv0G2nyRv5LC2UhohXIxuyEq8AcHzpCxCs3BeGQhZ6V5ijp6emMtY+aWVoc8g7/5vDajze3p6P2zi1ZWiH3Q+55q46rWnVo/65X3h3yb895l5b8Goc1v8SRk506OqYHMzAjmImZwZwUdRol
+  </data>
+ </layer>
+ <objectgroup id="3" name="objects">
+  <object id="2" name="spawn" x="64.1931" y="510.977" width="34.6643" height="32.0965"/>
+ </objectgroup>
+</map>

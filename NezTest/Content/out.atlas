@@ -1,0 +1,346 @@
+out
+	0,0,510,417
+	0.5,0.5
+adventurer-air-attack1-00
+	0,418,50,37
+	0.5,0.5
+adventurer-air-attack1-01
+	51,418,50,37
+	0.5,0.5
+adventurer-air-attack1-02
+	102,418,50,37
+	0.5,0.5
+adventurer-air-attack1-03
+	153,418,50,37
+	0.5,0.5
+adventurer-air-attack2-00
+	204,418,50,37
+	0.5,0.5
+adventurer-air-attack2-01
+	255,418,50,37
+	0.5,0.5
+adventurer-air-attack2-02
+	306,418,50,37
+	0.5,0.5
+adventurer-air-attack-3-end-00
+	357,418,50,37
+	0.5,0.5
+adventurer-air-attack-3-end-01
+	408,418,50,37
+	0.5,0.5
+adventurer-air-attack-3-end-02
+	459,418,50,37
+	0.5,0.5
+adventurer-air-attack3-loop-00
+	511,0,50,37
+	0.5,0.5
+adventurer-air-attack3-loop-01
+	511,38,50,37
+	0.5,0.5
+adventurer-air-attack3-rdy-00
+	562,0,50,37
+	0.5,0.5
+adventurer-attack1-00
+	511,76,50,37
+	0.5,0.5
+adventurer-attack1-01
+	562,38,50,37
+	0.5,0.5
+adventurer-attack1-02
+	613,0,50,37
+	0.5,0.5
+adventurer-attack1-03
+	511,114,50,37
+	0.5,0.5
+adventurer-attack1-04
+	562,76,50,37
+	0.5,0.5
+adventurer-attack2-00
+	613,38,50,37
+	0.5,0.5
+adventurer-attack2-01
+	511,152,50,37
+	0.5,0.5
+adventurer-attack2-02
+	664,0,50,37
+	0.5,0.5
+adventurer-attack2-03
+	562,114,50,37
+	0.5,0.5
+adventurer-attack2-04
+	613,76,50,37
+	0.5,0.5
+adventurer-attack2-05
+	511,190,50,37
+	0.5,0.5
+adventurer-attack3-00
+	664,38,50,37
+	0.5,0.5
+adventurer-attack3-01
+	562,152,50,37
+	0.5,0.5
+adventurer-attack3-02
+	715,0,50,37
+	0.5,0.5
+adventurer-attack3-03
+	613,114,50,37
+	0.5,0.5
+adventurer-attack3-04
+	511,228,50,37
+	0.5,0.5
+adventurer-attack3-05
+	664,76,50,37
+	0.5,0.5
+adventurer-cast-00
+	562,190,50,37
+	0.5,0.5
+adventurer-cast-01
+	715,38,50,37
+	0.5,0.5
+adventurer-cast-02
+	613,152,50,37
+	0.5,0.5
+adventurer-cast-03
+	766,0,50,37
+	0.5,0.5
+adventurer-cast-loop-00
+	511,266,50,37
+	0.5,0.5
+adventurer-cast-loop-01
+	664,114,50,37
+	0.5,0.5
+adventurer-cast-loop-02
+	562,228,50,37
+	0.5,0.5
+adventurer-cast-loop-03
+	715,76,50,37
+	0.5,0.5
+adventurer-crnr-clmb-00
+	613,190,50,37
+	0.5,0.5
+adventurer-crnr-clmb-01
+	766,38,50,37
+	0.5,0.5
+adventurer-crnr-clmb-02
+	511,304,50,37
+	0.5,0.5
+adventurer-crnr-clmb-03
+	664,152,50,37
+	0.5,0.5
+adventurer-crnr-clmb-04
+	817,0,50,37
+	0.5,0.5
+adventurer-crnr-grb-00
+	562,266,50,37
+	0.5,0.5
+adventurer-crnr-grb-01
+	715,114,50,37
+	0.5,0.5
+adventurer-crnr-grb-02
+	613,228,50,37
+	0.5,0.5
+adventurer-crnr-grb-03
+	766,76,50,37
+	0.5,0.5
+adventurer-crnr-jmp-00
+	511,342,50,37
+	0.5,0.5
+adventurer-crnr-jmp-01
+	664,190,50,37
+	0.5,0.5
+adventurer-crouch-00
+	817,38,50,37
+	0.5,0.5
+adventurer-crouch-01
+	562,304,50,37
+	0.5,0.5
+adventurer-crouch-02
+	715,152,50,37
+	0.5,0.5
+adventurer-crouch-03
+	868,0,50,37
+	0.5,0.5
+adventurer-die-00
+	613,266,50,37
+	0.5,0.5
+adventurer-die-01
+	766,114,50,37
+	0.5,0.5
+adventurer-die-02
+	511,380,50,37
+	0.5,0.5
+adventurer-die-03
+	664,228,50,37
+	0.5,0.5
+adventurer-die-04
+	817,76,50,37
+	0.5,0.5
+adventurer-die-05
+	562,342,50,37
+	0.5,0.5
+adventurer-die-06
+	715,190,50,37
+	0.5,0.5
+adventurer-hurt-00
+	868,38,50,37
+	0.5,0.5
+adventurer-hurt-01
+	613,304,50,37
+	0.5,0.5
+adventurer-hurt-02
+	766,152,50,37
+	0.5,0.5
+adventurer-idle-00
+	919,0,50,37
+	0.5,0.5
+adventurer-idle-01
+	510,418,50,37
+	0.5,0.5
+adventurer-idle-02
+	664,266,50,37
+	0.5,0.5
+adventurer-idle-03
+	817,114,50,37
+	0.5,0.5
+adventurer-items-00
+	562,380,50,37
+	0.5,0.5
+adventurer-items-01
+	715,228,50,37
+	0.5,0.5
+adventurer-items-02
+	868,76,50,37
+	0.5,0.5
+adventurer-ladder-climb-00
+	613,342,50,37
+	0.5,0.5
+adventurer-ladder-climb-01
+	766,190,50,37
+	0.5,0.5
+adventurer-ladder-climb-02
+	919,38,50,37
+	0.5,0.5
+adventurer-ladder-climb-03
+	664,304,50,37
+	0.5,0.5
+adventurer-slide-00
+	817,152,50,37
+	0.5,0.5
+adventurer-slide-01
+	561,418,50,37
+	0.5,0.5
+adventurer-smrslt-00
+	715,266,50,37
+	0.5,0.5
+adventurer-smrslt-01
+	868,114,50,37
+	0.5,0.5
+adventurer-smrslt-02
+	613,380,50,37
+	0.5,0.5
+adventurer-smrslt-03
+	766,228,50,37
+	0.5,0.5
+adventurer-stand-00
+	919,76,50,37
+	0.5,0.5
+adventurer-stand-01
+	664,342,50,37
+	0.5,0.5
+adventurer-stand-02
+	817,190,50,37
+	0.5,0.5
+adventurer-swrd-drw-00
+	715,304,50,37
+	0.5,0.5
+adventurer-swrd-drw-01
+	868,152,50,37
+	0.5,0.5
+adventurer-swrd-drw-02
+	612,418,50,37
+	0.5,0.5
+adventurer-swrd-drw-03
+	766,266,50,37
+	0.5,0.5
+adventurer-swrd-shte-00
+	919,114,50,37
+	0.5,0.5
+adventurer-swrd-shte-01
+	664,380,50,37
+	0.5,0.5
+adventurer-swrd-shte-02
+	817,228,50,37
+	0.5,0.5
+adventurer-swrd-shte-03
+	715,342,50,37
+	0.5,0.5
+adventurer-wall-slide-00
+	868,190,50,37
+	0.5,0.5
+adventurer-wall-slide-01
+	766,304,50,37
+	0.5,0.5
+adventurer-fall-00
+	919,152,50,37
+	0.5,0.5
+adventurer-fall-01
+	663,418,50,37
+	0.5,0.5
+adventurer-idle-2-00
+	817,266,50,37
+	0.5,0.5
+adventurer-idle-2-01
+	715,380,50,37
+	0.5,0.5
+adventurer-idle-2-02
+	868,228,50,37
+	0.5,0.5
+adventurer-idle-2-03
+	766,342,50,37
+	0.5,0.5
+adventurer-jump-00
+	919,190,50,37
+	0.5,0.5
+adventurer-jump-01
+	817,304,50,37
+	0.5,0.5
+adventurer-jump-02
+	714,418,50,37
+	0.5,0.5
+adventurer-jump-03
+	868,266,50,37
+	0.5,0.5
+adventurer-run-00
+	766,380,50,37
+	0.5,0.5
+adventurer-run-01
+	919,228,50,37
+	0.5,0.5
+adventurer-run-02
+	817,342,50,37
+	0.5,0.5
+adventurer-run-03
+	868,304,50,37
+	0.5,0.5
+adventurer-run-04
+	765,418,50,37
+	0.5,0.5
+adventurer-run-05
+	919,266,50,37
+	0.5,0.5
+
+player
+	8
+	92,49,85,84,48,93,86,87,38,81,82,37,35,83,36,75,15,78,60,41,29,30,42,77,14,76,16,79,59,40,39,58,80,17,54,43,45,4,27,28,3,44,55,18,57,46,1,26,25,2,47,56,31,8,70,67,66,9,32,34,13,69,64,65,68,10,33,72,61,62,71,73,63,74,7,88,89,24,6,91,90,5,23,53,19,11,12,20,52,50,22,21,51
+playerFall
+	8
+	95,94
+playerRun
+	8
+	108,109,105,104,106,107
+playerIdle
+	8
+	97,96,98,99
+playerJump
+	8
+	100,101,103,102
